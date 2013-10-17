@@ -1,0 +1,2 @@
+Creating isbieberdeadyet... done, region is us
+http://isbieberdeadyet.herokuapp.com/ | git@heroku.com:isbieberdeadyet.git
